@@ -1,0 +1,22 @@
+{
+    "title": "Python: type Function",
+    "slug": "python-type-function",
+    "description": "Using the type function to determine the type of any variable or expression in Python.",
+    "authors": [
+        "chris-cooling"
+    ],
+    "tags": [
+        "python"
+    ],
+    "duration": 3,
+    "prerequisites": [
+        "python-print",
+        "programming-objects-types",
+        "programming-integers-and-floats",
+        "python-arithmetic-operators",
+        "python-strings-introduction",
+        "programming-calling-functions"
+    ],
+    "related": [
+    ]
+}

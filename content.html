@@ -1,0 +1,30 @@
+
+<p>The <code class="language-python">type</code> function tells you the type of any value or variable passed to it as an argument. This is useful for understanding what kind of data you're working with.</p>
+
+<h2>Basic Usage</h2>
+
+<py-cell>print(type(5))
+print(type(3.14))
+print(type("hello"))</py-cell>
+
+<p>The output <code class="language-python">&lt;class 'int'&gt;</code> means "the <code class="language-python">int</code> class"</p>
+
+<h2>With Variables</h2>
+
+<p>You can check the type of the object referenced by any variable:</p>
+
+<py-cell>x = 42
+y = 42.0
+z = "42"
+
+print(type(x))
+print(type(y))
+print(type(z))</py-cell>
+
+<h2>With Expressions</h2>
+
+<p>You can check the type of the result of an expression:</p>
+
+<py-cell>print(type(5 + 3))
+print(type(5 / 3))
+</py-cell>
