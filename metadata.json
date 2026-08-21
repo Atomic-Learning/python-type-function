@@ -1,7 +1,7 @@
 {
-    "title": "Python: The type Function",
+    "title": "Python: The type() Function",
     "slug": "python-type-function",
-    "description": "Using the type function to determine the type of any variable or expression in Python.",
+    "description": "Using the type() function to determine the type of any variable or expression in Python.",
     "authors": [
         "chris-cooling"
     ],
